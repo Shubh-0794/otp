@@ -1,0 +1,6 @@
+{
+  "name": "Supabase WhatsApp OTP Auth & Netlify Hub",
+  "description": "Passwordless authentication powered by Supabase WhatsApp OTP verification, live session management, user profile controls, and complete Netlify deployment configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
